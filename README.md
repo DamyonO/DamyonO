@@ -3,7 +3,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 * 💻 - Currently Working On : Finishing College
-* 💼 - Employed by : [Eleos Technologies]([github.com/DamyonOEleos](https://github.com/DamyonOEleos))
+* 💼 - Employed by : [Eleos Technologies](https://github.com/DamyonOEleos)
 * 🎮 - Currently Playing : Palworld
 * 📺 - Currently Watching : The Bear
 # My TECH Stack
