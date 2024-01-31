@@ -1,3 +1,10 @@
+<div align="center"> </div>
 ![header](./banner.png)
 # Welcome To My Profile
-<p type= "Jokes Card", align="center"> ![Jokes Card](https://readme-jokes.vercel.app/api) </p>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+/
+/
+/
+💻 - Currently Working On : Finishing College
+💼 - Employed by : [Eleos Technologies](github.com/DamyonOEleos)
+🎮 - Currently Playing : Palworld
