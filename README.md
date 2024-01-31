@@ -1,4 +1,4 @@
 ![header](./banner.png)
 
-### Welcome to my Profile
+###<p style="text-align: center;">Welcome to my Profile!</p>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
