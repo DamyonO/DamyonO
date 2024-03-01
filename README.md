@@ -4,8 +4,8 @@
 
 * 💻 - Currently Working On : Finishing College
 * 💼 - Employed by : [Eleos Technologies](https://github.com/eleostech)
-* 🎮 - Currently Playing : Palworld
-* 📺 - Currently Watching : The Bear
+* 🎮 - Currently Playing : Minecraft
+* 📺 - Currently Watching : Warrior
 # My TECH Stack
 <p align="center">
   <a href="https://skillicons.dev">
