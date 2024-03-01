@@ -4,7 +4,7 @@
 
 * 💻 - Currently Working On : Finishing College
 * 💼 - Employed by : [Eleos Technologies](https://github.com/eleostech)
-* 🎮 - Currently Playing : Minecraft
+* 🎮 - Currently Playing : Minecraft & Sky: Children of the Light
 * 📺 - Currently Watching : Warrior
 # My TECH Stack
 <p align="center">
