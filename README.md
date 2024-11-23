@@ -2,10 +2,10 @@
 # Welcome To My Profile
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-* 💻 - Currently Working On : Finishing College
+* 💻 - Currently Working On : Learning Swift
 * 💼 - Employed by : [Eleos Technologies](https://github.com/eleostech)
-* 🎮 - Currently Playing : Minecraft & Sky: Children of the Light
-* 📺 - Currently Watching : Warrior
+* 🎮 - Currently Playing : Overwatch
+* 📺 - Currently Watching : Arcane
 # My TECH Stack
 <p align="center">
   <a href="https://skillicons.dev">
