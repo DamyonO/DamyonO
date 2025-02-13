@@ -4,8 +4,8 @@
 
 * 💻 - Currently Working On : Learning Swift
 * 💼 - Employed by : [Eleos Technologies](https://github.com/eleostech)
-* 🎮 - Currently Playing : Overwatch
-* 📺 - Currently Watching : Arcane
+* 🎮 - Currently Playing : Marvel Rivals
+* 📺 - Currently Watching : Solo Leveling S2
 # My TECH Stack
 <p align="center">
   <a href="https://skillicons.dev">
